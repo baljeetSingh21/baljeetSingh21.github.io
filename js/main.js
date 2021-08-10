@@ -269,11 +269,11 @@
                 }
             });
 
-        //Google Maps
-        $("#map").googleMap();
-        $("#map").addMarker({
-            address: "15 avenue des champs Elysées 75008 Paris" // Your Address
-        });
+        // //Google Maps
+        // $("#map").googleMap();
+        // $("#map").addMarker({
+        //     address: "BSF COLONY, NEAR NEW GRAIN MARKET, OPP. HMV COLLEGE, JALANDHAR" // Your Address
+        // });
     });
 
 })(jQuery);

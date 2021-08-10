@@ -75,3 +75,6 @@
   animation: flick 0.2s;
   display: block;
 }
+.client-block{
+  opacity: 1;
+}
